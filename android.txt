@@ -1,0 +1,13 @@
+17:03 15-06-2020-----------------USING THROUGH----------------------
+1. JSONObject    ===data/parse/fetch
+2. JSONArray     ===data/parse/fetch
+3. ArrayList/ List   ===get/set
+4. Hashmap/ Map ===get/set
+----------------------
+RecyclerView
+CustomAdapter
+----------------------
+MVI
+MVC
+MVP
+MVVM - livedata
